@@ -94,3 +94,8 @@ Use ISRO_CA.ipynb to run fire spread simulation over multiple time intervals.
 Fire probability map for next-day risk zones
 Simulated spread maps: fire_spread_1h.tif, fire_spread_2h.tif, ..., fire_spread_12h.tif
 Optional animation: fire_spread_animation.gif
+
+TEAM MEMBERS:
+Arin Kumar Singh(220107016)
+Aman Kumar Thakur(220122007)
+Ashmit Verma(220108012)
